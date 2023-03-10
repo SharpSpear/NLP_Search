@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+pynput==1.7.6
+cosine-similarity
+sentence_transformers
